@@ -1,4 +1,5 @@
 # DATASET.md
+link untuk file data ada di data.txt
 ## Level 1
 ### Output Data
 - Folder akun instagram yang berisikan:
