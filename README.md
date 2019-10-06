@@ -11,7 +11,7 @@ Instagram Crawler
 install package python dari instaloader ```pip install instaloader```
 
 ### Level 1
-1. Open terminal pada folder insta-crawler
+1. Open terminal pada folder dari insta crawler
 2. Jalankan pada terminal, kode berikut ```instaloader.py ig_username --no-pictures --no-videos --comments```
     - ```ig_username``` = masukkan username IG yang ingin diextract datanya.
     - ```--no-pictures``` = program tidak mengambil data foto dari instagram user
